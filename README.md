@@ -1,1 +1,1 @@
-# device_xiaomi_taoyao_FOX
+# android_device_xiaomi_taoyao_TWRP
